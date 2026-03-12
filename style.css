@@ -1,0 +1,21 @@
+body{
+    font-family: Arial;
+    text-align: center;
+}
+
+.container{
+    margin-top: 100px;
+}
+
+#color-box{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin: 20px auto;
+}
+
+#change-color-btn{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
